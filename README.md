@@ -6,6 +6,9 @@ In this lab I download and configure a Windows server 2022 instance in Oracle Vi
 
 ##### Step 1: Download Windows Server 2022 ISO File from Microsoft.
 
+
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/e026fe37-d3ae-4641-8b80-291f0a998451" />
+
 Windows Server File
 
 
