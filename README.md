@@ -1,10 +1,10 @@
-## Active Directory - Domain-Controller
-Working with Active Directory in Windows Server 2022
+# Active Directory - Domain-Controller
+## Working with Active Directory in Windows Server 2022
 
-Description
+#### Description
 In this lab I download and configure a Windows server 2022 instance in Oracle VirtualBox. I deploy the server as a domain controller and configure services such as Ras, Nat, and DHCP. I create a user, set it as an admin account and connect to the domain controller.
 
-Step 1: Download Windows Server 2022 ISO File from Microsoft.
+##### Step 1: Download Windows Server 2022 ISO File from Microsoft.
 
 Windows Server File
 
